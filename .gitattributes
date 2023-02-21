@@ -1,4 +1,2 @@
 *.css linguist-detectable=false
-*.html linguist-detectable=false
-*.Handlebars linguist-detectable=false
 *.js linguist-detectable=true
