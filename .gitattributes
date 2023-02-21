@@ -1,4 +1,3 @@
+*.Handlebards linguist-detectable=false
 *.css linguist-detectable=false
-*.handlebards linguist-detectable=false
-
 *.js linguist-detectable=true
