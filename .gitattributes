@@ -1,3 +1,5 @@
 
-*.css, Handlebars linguist-detectable=false
+*.css linguist-detectable=false
+*.Handlebars linguist-detectable=false
+*.css, йс linguist-detectable=true
 
