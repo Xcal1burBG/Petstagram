@@ -1,5 +1,2 @@
-
-*.css linguist-detectable=false;
-*.Handlebars linguist-detectable=false;
-*.js linguist-detectable=true
+.hbs linguist-language=Javascript
 
