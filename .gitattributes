@@ -1,2 +1,4 @@
 .hbs linguist-language=false
+.css linguist-language=false
+.js linguist-language=true
 
